@@ -11,5 +11,8 @@
   "hubot-shipit",
   "hubot-youtube",
   "hubot-sarcasmlink",
-  "hubot-leaderboard"
+  "hubot-leaderboard",
+  "hubot-event-announcer",
+  "hubot-scorekeeper",
+  "hubot-marvin"
 ]
