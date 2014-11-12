@@ -5,6 +5,7 @@
   "author": "drew@mohdi.com",
   "description": "A simple helpful robot matching our commands to its hands.",
   "dependencies": {
+    "cheerio": "^0.18.0",
     "hubot": "^2.9.3",
     "hubot-bangmotivate": "^0.1.0",
     "hubot-diagnostics": "0.0.1",
