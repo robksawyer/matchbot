@@ -224,3 +224,8 @@ robot.respond /hello$/i, (msg) ->
 
 You may want to get comfortable with `heroku logs` and `heroku restart`
 if you're having issues.
+
+
+## Want to create your own?
+
+Follow the instructions over at [Hubot-Slack](https://github.com/tinyspeck/hubot-slack/blob/master/README.md).
