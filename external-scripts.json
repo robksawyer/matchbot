@@ -1,5 +1,4 @@
 [
-  "hubot-cheese",
   "hubot-diagnostics",
   "hubot-help",
   "hubot-heroku-keepalive",
@@ -10,6 +9,7 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
+  "hubot-cheese",
   "hubot-youtube",
   "hubot-sarcasmlink",
   "hubot-leaderboard",

@@ -8,7 +8,7 @@
     "cheerio": "^0.18.0",
     "hubot": "^2.9.3",
     "hubot-bangmotivate": "^0.1.0",
-    "hubot-cheese": ">=0.0.58",
+    "hubot-cheese": ">=0.0.59",
     "hubot-diagnostics": "0.0.1",
     "hubot-event-announcer": "^0.1.2",
     "hubot-google-images": "^0.1.0",
