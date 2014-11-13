@@ -218,6 +218,12 @@ robot.respond /hello$/i, (msg) ->
   robot.messageRoom '#general', 'hello there'
 ``` 
 
+## Commands List
+
+```
+    > matchbot eat cheese
+```
+
 ## More Adapters
 
 [hubot-adapters]: https://github.com/github/hubot/blob/master/docs/adapters.md
